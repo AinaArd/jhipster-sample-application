@@ -26,9 +26,7 @@ entity Department {
  */
 entity Cinema {
 	title String,
-	description String,
-    date Timestamp,
-    
+	description String    
 }
 
 /**
