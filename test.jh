@@ -24,11 +24,9 @@ entity Department {
  * Task entity.
  * @author The JHipster team.
  */
-entity Cinema {
+entity Task {
 	title String,
-	description String,
-    date Timestamp,
-    
+	description String    
 }
 
 /**
